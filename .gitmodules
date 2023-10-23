@@ -1,6 +1,0 @@
-[submodule "MemGPT"]
-	path = fastapi_app/MemGPT
-	url = https://github.com/glindberg2000/MemGPT.git
-[submodule "fastapi_app/MemGPT"]
-	path = fastapi_app/MemGPT
-	url = https://github.com/glindberg2000/MemGPT.git
