@@ -161,4 +161,5 @@ cython_debug/
 
 
 flask-app/
-saved_state/
+fastapi_app/MemGPT_bak/
+**/saved_state/
